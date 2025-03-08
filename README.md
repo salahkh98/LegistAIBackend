@@ -13,7 +13,7 @@ Backend server for the LegistAI application.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/LegistAIBack.git
+git clone https://github.com/salahkh98/LegistAIBackend.git
 cd LegistAIBack
 ```
 
