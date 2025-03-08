@@ -1,0 +1,51 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+
+# Flask-specific
+instance/
+*.db
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+*.eggs/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# PyCharm specific
+*.iml
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Flask migrations folder
+migrations/
+
+# Coverage reports (if using coverage.py)
+.coverage
+coverage.xml
+*.coveragerc
+
+# pytest cache
+.cache/
+
+# MySQL
+*.sql
